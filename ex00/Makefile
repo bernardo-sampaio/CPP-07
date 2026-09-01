@@ -6,7 +6,7 @@
 #    By: bsampaio <bsampaio@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2026/09/01 11:47:42 by bsampaio          #+#    #+#              #
-#    Updated: 2026/09/01 12:56:57 by bsampaio         ###   ########.fr        #
+#    Updated: 2026/09/01 13:17:41 by bsampaio         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -15,7 +15,7 @@ CXXFLAGS = -Wall -Werror -Wextra -std=c++98
 NAME = smm
 SRCS = main.cpp
 OBJS = $(SRCS:.cpp=.o)
-HEADERS = templates.hpp
+HEADERS = whatever.hpp
 
 all: $(NAME)
 
