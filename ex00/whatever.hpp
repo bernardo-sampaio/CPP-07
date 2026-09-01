@@ -1,17 +1,17 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   templates.hpp                                      :+:      :+:    :+:   */
+/*   whatever.hpp                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: bsampaio <bsampaio@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/09/01 12:43:12 by bsampaio          #+#    #+#             */
-/*   Updated: 2026/09/01 13:12:18 by bsampaio         ###   ########.fr       */
+/*   Updated: 2026/09/01 13:15:55 by bsampaio         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#ifndef TEMPLATES_HPP
-#define TEMPLATES_HPP
+#ifndef WHATEVER_HPP
+#define WHATEVER_HPP
 
 
 template <typename T>
